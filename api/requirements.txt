@@ -1,3 +1,4 @@
 black
 fastapi
 pre-commit
+uvicorn
