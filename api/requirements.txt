@@ -1,4 +1,8 @@
+
+azure-storage-blob
 black
 fastapi
+jinja2
 pre-commit
+python-multipart
 uvicorn
